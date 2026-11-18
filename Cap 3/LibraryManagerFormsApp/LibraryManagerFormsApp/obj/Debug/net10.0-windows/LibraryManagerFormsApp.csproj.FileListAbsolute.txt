@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\bin\Debug\net10.0-windows\LibraryManagerFormsApp.exe
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\bin\Debug\net10.0-windows\LibraryManagerFormsApp.deps.json
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\bin\Debug\net10.0-windows\LibraryManagerFormsApp.runtimeconfig.json
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\bin\Debug\net10.0-windows\LibraryManagerFormsApp.dll
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\bin\Debug\net10.0-windows\LibraryManagerFormsApp.pdb
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.Form1.resources
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.AssemblyInfo.cs
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.dll
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\refint\LibraryManagerFormsApp.dll
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.pdb
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryManagerFormsApp.genruntimeconfig.cache
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\ref\LibraryManagerFormsApp.dll
+C:\Users\vasco\source\repos\LibraryManagerFormsApp\LibraryManagerFormsApp\obj\Debug\net10.0-windows\LibraryM.0B0FCD33.Up2Date

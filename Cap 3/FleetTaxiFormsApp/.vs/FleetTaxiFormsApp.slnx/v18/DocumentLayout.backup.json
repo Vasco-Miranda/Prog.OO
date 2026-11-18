@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|c:\\users\\vasco\\source\\repos\\fleettaxiformsapp\\fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|solutionrelative:fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|c:\\users\\vasco\\source\\repos\\fleettaxiformsapp\\fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|solutionrelative:fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FE69B-634A-4D5C-B152-B4FD7B198915}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965FE69B-634A-4D5C-B152-B4FD7B198915}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|solutionrelative:fleettaxiformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|c:\\users\\vasco\\source\\repos\\fleettaxiformsapp\\fleettaxiformsapp\\fleettaxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0F2551-55A6-5A2A-D685-4966F82BB279}|FleetTaxiFormsApp\\FleetTaxiFormsApp.csproj|solutionrelative:fleettaxiformsapp\\fleettaxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FleetTaxiFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs [Projeto]",
+              "RelativeToolTip": "FleetTaxiFormsApp\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:55:00.165Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FleetTaxiFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs",
+              "RelativeToolTip": "FleetTaxiFormsApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:26:27.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FleetTaxi.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\FleetTaxi.cs",
+              "RelativeDocumentMoniker": "FleetTaxiFormsApp\\FleetTaxi.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\FleetTaxi.cs",
+              "RelativeToolTip": "FleetTaxiFormsApp\\FleetTaxi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:25:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FleetTaxiFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\FleetTaxiFormsApp\\FleetTaxiFormsApp\\Form1.cs [Projeto]",
+              "RelativeToolTip": "FleetTaxiFormsApp\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:21:57.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\bin\Debug\net10.0-windows\BancoFormsApp.exe
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\bin\Debug\net10.0-windows\BancoFormsApp.deps.json
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\bin\Debug\net10.0-windows\BancoFormsApp.runtimeconfig.json
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\bin\Debug\net10.0-windows\BancoFormsApp.dll
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\bin\Debug\net10.0-windows\BancoFormsApp.pdb
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.Form1.resources
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.AssemblyInfo.cs
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.dll
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\refint\BancoFormsApp.dll
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.pdb
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFormsApp.genruntimeconfig.cache
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\ref\BancoFormsApp.dll
+C:\Users\vasco\source\repos\BancoFormsApp\BancoFormsApp\obj\Debug\net10.0-windows\BancoFor.7A88F8EE.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.Form1.resources
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.AssemblyInfo.cs
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\bin\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.exe
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\bin\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.deps.json
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\bin\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.runtimeconfig.json
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\bin\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.dll
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\bin\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.pdb
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.dll
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\refint\CalculadoraGeometricaFormsApp.dll
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.pdb
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\CalculadoraGeometricaFormsApp.genruntimeconfig.cache
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\ref\CalculadoraGeometricaFormsApp.dll
+C:\Users\vasco\source\repos\CalculadoraGeometricaFormsApp\CalculadoraGeometricaFormsApp\obj\Debug\net10.0-windows\Calculad.F29950A1.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\bin\Debug\net10.0-windows\FleetTaxiFormsApp.exe
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\bin\Debug\net10.0-windows\FleetTaxiFormsApp.deps.json
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\bin\Debug\net10.0-windows\FleetTaxiFormsApp.runtimeconfig.json
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\bin\Debug\net10.0-windows\FleetTaxiFormsApp.dll
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\bin\Debug\net10.0-windows\FleetTaxiFormsApp.pdb
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.Form1.resources
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.AssemblyInfo.cs
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.dll
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\refint\FleetTaxiFormsApp.dll
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.pdb
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTaxiFormsApp.genruntimeconfig.cache
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\ref\FleetTaxiFormsApp.dll
+C:\Users\vasco\source\repos\FleetTaxiFormsApp\FleetTaxiFormsApp\obj\Debug\net10.0-windows\FleetTax.75B70D36.Up2Date
