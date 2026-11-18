@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|c:\\users\\vasco\\source\\repos\\contasbancoformsapp\\contasbancoformsapp\\contapoupan\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|solutionrelative:contasbancoformsapp\\contapoupan\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|c:\\users\\vasco\\source\\repos\\contasbancoformsapp\\contasbancoformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|solutionrelative:contasbancoformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|c:\\users\\vasco\\source\\repos\\contasbancoformsapp\\contasbancoformsapp\\contaordem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|solutionrelative:contasbancoformsapp\\contaordem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|c:\\users\\vasco\\source\\repos\\contasbancoformsapp\\contasbancoformsapp\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04226D69-6CAB-401E-8EA6-99DB426C3CDD}|ContasBancoFormsApp\\ContasBancoFormsApp.csproj|solutionrelative:contasbancoformsapp\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaPoupan\u00E7a.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaPoupan\u00E7a.cs",
+              "RelativeDocumentMoniker": "ContasBancoFormsApp\\ContaPoupan\u00E7a.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaPoupan\u00E7a.cs",
+              "RelativeToolTip": "ContasBancoFormsApp\\ContaPoupan\u00E7a.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:24:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaOrdem.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaOrdem.cs",
+              "RelativeDocumentMoniker": "ContasBancoFormsApp\\ContaOrdem.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaOrdem.cs",
+              "RelativeToolTip": "ContasBancoFormsApp\\ContaOrdem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:20:54.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBase.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaBase.cs",
+              "RelativeDocumentMoniker": "ContasBancoFormsApp\\ContaBase.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\ContaBase.cs",
+              "RelativeToolTip": "ContasBancoFormsApp\\ContaBase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:10:40.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ContasBancoFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\ContasBancoFormsApp\\ContasBancoFormsApp\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ContasBancoFormsApp\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:48:26.591Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

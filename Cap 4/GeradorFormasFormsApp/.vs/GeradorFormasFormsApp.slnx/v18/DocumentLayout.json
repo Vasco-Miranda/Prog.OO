@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\geradoraleatorioformas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\geradoraleatorioformas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|c:\\users\\vasco\\source\\repos\\geradorformasformsapp\\geradorformasformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5328B2FD-E508-E8B2-5B1D-D5D541437D6D}|GeradorFormasFormsApp\\GeradorFormasFormsApp.csproj|solutionrelative:geradorformasformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Form1.cs",
+              "RelativeToolTip": "GeradorFormasFormsApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:15:15.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeradorAleatorioFormas.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\GeradorAleatorioFormas.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\GeradorAleatorioFormas.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\GeradorAleatorioFormas.cs",
+              "RelativeToolTip": "GeradorFormasFormsApp\\GeradorAleatorioFormas.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:01:07.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Quadrado.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Quadrado.cs",
+              "RelativeToolTip": "GeradorFormasFormsApp\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:00:37.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Circulo.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\Circulo.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Circulo.cs",
+              "RelativeToolTip": "GeradorFormasFormsApp\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:00:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Triangulo.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Triangulo.cs",
+              "RelativeToolTip": "GeradorFormasFormsApp\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:00:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "GeradorFormasFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\vasco\\source\\repos\\GeradorFormasFormsApp\\GeradorFormasFormsApp\\Form1.cs [Projeto]",
+              "RelativeToolTip": "GeradorFormasFormsApp\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T17:54:50.86Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
