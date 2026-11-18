@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\bin\Debug\net10.0-windows\CalcEx5.exe
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\bin\Debug\net10.0-windows\CalcEx5.deps.json
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\bin\Debug\net10.0-windows\CalcEx5.runtimeconfig.json
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\bin\Debug\net10.0-windows\CalcEx5.dll
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\bin\Debug\net10.0-windows\CalcEx5.pdb
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.Form1.resources
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.AssemblyInfo.cs
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.dll
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\refint\CalcEx5.dll
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.pdb
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.genruntimeconfig.cache
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\ref\CalcEx5.dll
+C:\Users\vasco\source\repos\CalcEx5\CalcEx5\obj\Debug\net10.0-windows\CalcEx5.csproj.Up2Date
