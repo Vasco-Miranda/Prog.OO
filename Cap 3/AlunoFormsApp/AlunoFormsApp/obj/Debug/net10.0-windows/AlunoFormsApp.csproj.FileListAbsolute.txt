@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\bin\Debug\net10.0-windows\AlunoFormsApp.exe
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\bin\Debug\net10.0-windows\AlunoFormsApp.deps.json
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\bin\Debug\net10.0-windows\AlunoFormsApp.runtimeconfig.json
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\bin\Debug\net10.0-windows\AlunoFormsApp.dll
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\bin\Debug\net10.0-windows\AlunoFormsApp.pdb
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.Form1.resources
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.AssemblyInfo.cs
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.dll
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\refint\AlunoFormsApp.dll
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.pdb
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFormsApp.genruntimeconfig.cache
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\ref\AlunoFormsApp.dll
+C:\Users\vasco\source\repos\AlunoFormsApp\AlunoFormsApp\obj\Debug\net10.0-windows\AlunoFor.E664E7D1.Up2Date

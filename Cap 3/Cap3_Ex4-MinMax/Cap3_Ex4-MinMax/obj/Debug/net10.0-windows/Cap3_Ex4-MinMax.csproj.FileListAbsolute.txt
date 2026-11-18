@@ -1,0 +1,17 @@
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\bin\Debug\net10.0-windows\Cap3_Ex4-MinMax.exe
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\bin\Debug\net10.0-windows\Cap3_Ex4-MinMax.deps.json
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\bin\Debug\net10.0-windows\Cap3_Ex4-MinMax.runtimeconfig.json
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\bin\Debug\net10.0-windows\Cap3_Ex4-MinMax.dll
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\bin\Debug\net10.0-windows\Cap3_Ex4-MinMax.pdb
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4_MinMax.Form1.resources
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.csproj.GenerateResource.cache
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.AssemblyInfo.cs
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.dll
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\refint\Cap3_Ex4-MinMax.dll
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.pdb
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4-MinMax.genruntimeconfig.cache
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\ref\Cap3_Ex4-MinMax.dll
+C:\Users\vasco\source\repos\Cap3_Ex4-MinMax\Cap3_Ex4-MinMax\obj\Debug\net10.0-windows\Cap3_Ex4.EF91F437.Up2Date

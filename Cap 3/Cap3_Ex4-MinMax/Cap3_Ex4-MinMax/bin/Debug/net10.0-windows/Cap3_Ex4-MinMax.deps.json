@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cap3_Ex4-MinMax/1.0.0": {
+        "runtime": {
+          "Cap3_Ex4-MinMax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap3_Ex4-MinMax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
